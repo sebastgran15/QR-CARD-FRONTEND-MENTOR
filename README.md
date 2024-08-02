@@ -25,6 +25,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+## Link
+
+- [Live Netlify](https://card-qr-sebast.netlify.app/)
+
 ### Built with
 
 - Semantic HTML5 markup
